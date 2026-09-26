@@ -183,21 +183,24 @@ export const parkInfoLinks = [
   {
     name: "Current Conditions &#x203A;",
     link: "conditions.html",
-    image: "/images/current_conditions.jpg",
+    image:
+      "https://npgallery.nps.gov/GetAsset/55a61058-f355-45fe-af46-c4da6846ba69/proxylores.jpg",
     description:
       "See what conditions to expect in the park before leaving on your trip!"
   },
   {
     name: "Fees and Passes &#x203A;",
     link: "fees.html",
-    image: "/images/fees_passes.jpg",
+    image:
+      "https://npgallery.nps.gov/GetAsset/9c858b86-9cdb-4bb0-8c17-ea567391faa2/proxylores.jpg",
     description:
       "Learn about the fees and passes that are available."
   },
   {
     name: "Visitor Centers &#x203A;",
     link: "visitor_centers.html",
-    image: "/images/visitor_centers.jpg",
+    image:
+      "https://www.nps.gov/yell/learn/nature/images/20171128-dmr-5011_sm.jpg?autorotate=false&format=webp&maxheight=1300&maxwidth=1300",
     description:
       "Learn about the visitor centers in the park."
   }
