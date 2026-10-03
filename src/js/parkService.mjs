@@ -232,4 +232,3 @@ export async function getParkData() {
 
   return data.data[0];
 }
-}
