@@ -21,6 +21,7 @@ export function mediaCardTemplate(info) {
         >
         <h3 class="media-card__title">${info.name}</h3>
       </a>
+
       <p>${info.description}</p>
     </div>
   `;
